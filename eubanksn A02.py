@@ -12,17 +12,13 @@ import turtle
 wn = turtle.Screen()
 wn.bgcolor("white")
 
+
 def main():
-
-    main()
-
-box = turtle.Turtle
-f = turtle.Turtle
+    box = turtle.Turtle
+    f = turtle.Turtle
 
 
-
-
-def square (box):
+def square(box):
     """This function draws the Mickey boxy. """
 
     for i in range(2):
@@ -31,9 +27,11 @@ def square (box):
         box.right(90)
         box.forward(40)
         box.right(90)
+
+
 def fries(f):
     """draws a single fry."""
-# posistion fry
+    # posistion fry
 
     f.penup()
     f.forward(5)
@@ -46,6 +44,4 @@ def fries(f):
     wn.exitonclick()
 
 
-
-
-
+main()
