@@ -1,5 +1,5 @@
 ######################################################################
-# Author: Emily Lovell & Scott Heggen              TODO: Change this to your name, if modifying
+# # Author: Emily Lovell & Scott Heggen              TODO: Change this to your name, if modifying
 # Username: lovelle & heggens                     TODO: Change this to your username, if modifying
 #
 # Assignment: A02: Loopy Turtles
